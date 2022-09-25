@@ -1,0 +1,25 @@
+</head>
+<body>
+<header>
+    <nav>
+        <a href="#services">Что мы делаем?</a>
+        <a href="#portfolio">Погладить котиков</a>
+        <a href="'#contacts">Контакты и коты!</a>
+
+
+    </nav>
+    <div>
+        <a href="tel:+79548789797">Гланый по котикам  - +Настя</a>
+        <button>Спешите предложение не ограничено!</button>
+
+        <button> Не ограничено!</button>
+
+    </div>
+    <div>
+        <a href="tel:+79654659797"> Главный Мур Мур - Настя</a>
+        <button> Что-то новое! </button>
+
+    </div>
+
+</header>
+</body>
